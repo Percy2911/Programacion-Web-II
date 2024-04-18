@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\mvcProyectoWeb.csproj": {}
+    "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\mvcProyectoWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj": {
+    "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
         "projectName": "mvcProyectoWeb.AccesoDatos",
-        "projectPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\anahi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\obj\\",
+        "projectPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\SCPC525\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SCPC525\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj": {
-                "projectPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj"
+              "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj": {
+                "projectPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj"
               },
-              "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj"
+              "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj"
               }
             }
           }
@@ -45,40 +45,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNet.Mvc": {
-              "target": "Package",
-              "version": "[5.3.0, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -90,29 +61,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj": {
+    "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
+        "projectUniqueName": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
         "projectName": "mvcProyectoWeb.Models",
-        "projectPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
-        "packagesPath": "C:\\Users\\anahi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\obj\\",
+        "projectPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
+        "packagesPath": "C:\\Users\\SCPC525\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SCPC525\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -133,11 +99,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -154,29 +115,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj": {
+    "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj",
         "projectName": "mvcProyectoWeb.Utilidades",
-        "projectPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\anahi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\obj\\",
+        "projectPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\mvcProyectoWeb.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\SCPC525\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SCPC525\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -197,11 +153,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -218,29 +169,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\mvcProyectoWeb.csproj": {
+    "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\mvcProyectoWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\mvcProyectoWeb.csproj",
+        "projectUniqueName": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\mvcProyectoWeb.csproj",
         "projectName": "mvcProyectoWeb",
-        "projectPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\mvcProyectoWeb.csproj",
-        "packagesPath": "C:\\Users\\anahi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\obj\\",
+        "projectPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\mvcProyectoWeb.csproj",
+        "packagesPath": "C:\\Users\\SCPC525\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SCPC525\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -255,8 +201,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj": {
-                "projectPath": "C:\\Users\\anahi\\OneDrive\\Desktop\\Materia\\Sistema Web 2\\DesarrolloWebII-main\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj"
+              "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\SCPC525\\Downloads\\mvcProyectoWeb - 02 - Practica 4\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj"
               }
             }
           }
@@ -265,42 +211,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[8.0.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -312,15 +227,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
